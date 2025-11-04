@@ -73,21 +73,6 @@ I had already built so many Websites with the mentioned skill.
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3bac3a)
 
-<p>
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge" />
-<img align="right" src="https://img.shields.io/github/followers/Fullstack-WEB-Blockchain-Developer?label=Follow&style=social" />
-</p>
-
 <br/>
 
 <!-- [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=Fullstack-WEB-Blockchain-Developer&theme=github&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=Fullstack-WEB-Blockchain-Developer&theme=github&count_private=true) -->
-
-<div align="center"/>
-
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=ayu-mirage&user=Fullstack-WEB-Blockchain-Developer)
-
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=Fullstack-WEB-Blockchain-Developer&show_icons=true&count_private=true&layout=compact&theme=maroongold&include_all_commits=true" align="left" style="height: 150px" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fullstack-WEB-Blockchain-Developer&layout=compact&theme=maroongold&include_all_commits=true" align="right" style="height: 150px" /><br/>  
-</div>
