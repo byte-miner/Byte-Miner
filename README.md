@@ -15,11 +15,11 @@ I'm a passionate **Full Stack Blockchain Developer** with extensive experience i
 With a strong foundation in both **frontend** and **backend** development, I deliver end-to-end solutions that are secure, scalable, and production-ready.
 
 ### 🎯 Core Expertise
-- 🔗 **Blockchain Development**: Smart Contracts, DApps, Web3 Integration
-- 💎 **Token Standards**: ERC20, ERC721 (NFTs), ERC1155, BEP20
-- 🌐 **Full Stack Development**: Next.js, React, TypeScript, PHP, Node.js
-- 🏗️ **Architecture**: Microservices, RESTful APIs, GraphQL
-- ⚡ **Performance Optimization**: Gas optimization, Caching strategies, Load balancing
+- **Blockchain Development**: Smart Contracts, DApps, Web3 Integration
+- **Token Standards**: ERC20, ERC721 (NFTs), ERC1155, BEP20
+- **Full Stack Development**: Next.js, React, TypeScript, PHP, Node.js
+- **Architecture**: Microservices, RESTful APIs, GraphQL
+- **Performance Optimization**: Gas optimization, Caching strategies, Load balancing
 
 ---
 
