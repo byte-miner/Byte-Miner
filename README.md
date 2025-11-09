@@ -2,8 +2,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Fullstack-WEB-Blockchain-Developer&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
 </div>
 
-![](./profile-3d-contrib/profile-night-view.svg)
-
 # 👋 Hello, I'm a Full Stack Blockchain Developer
 
 <div align="center">
