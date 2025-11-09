@@ -71,74 +71,6 @@ With a strong foundation in both **frontend** and **backend** development, I del
 
 ---
 
-## 💼 Blockchain Expertise
-
-### Smart Contract Development
-- ✅ Custom ERC20/BEP20 Token Development
-- ✅ NFT Marketplaces (ERC721, ERC1155)
-- ✅ DeFi Protocols (Staking, Yield Farming, Liquidity Pools)
-- ✅ DAO (Decentralized Autonomous Organizations)
-- ✅ Token Vesting & Lock Mechanisms
-- ✅ Multi-signature Wallets
-- ✅ Cross-chain Bridge Development
-- ✅ Smart Contract Security Auditing
-
-### DApp Development
-- 🎨 Wallet Integration (MetaMask, WalletConnect, Coinbase Wallet)
-- 🎨 Real-time Blockchain Data Synchronization
-- 🎨 Gas Optimization Strategies
-- 🎨 Event Listening & Transaction Management
-- 🎨 Decentralized Storage (IPFS, Arweave)
-- 🎨 Subgraph Development (The Graph)
-
-### Web3 Applications
-- 🚀 NFT Minting Platforms
-- 🚀 DEX (Decentralized Exchanges)
-- 🚀 Token Swap Interfaces
-- 🚀 Crypto Wallets
-- 🚀 Blockchain Explorers
-- 🚀 GameFi & Play-to-Earn Platforms
-- 🚀 Launchpads & ICO Platforms
-
----
-
-## 🎓 Key Projects & Deliverables
-
-### 🏆 NFT Marketplace
-Built a full-featured NFT marketplace with minting, bidding, and royalty distribution
-- **Tech**: Solidity, Next.js, TypeScript, Ethers.js, IPFS
-- **Features**: Lazy minting, auction system, collection management
-
-### 🏆 DeFi Yield Farming Platform
-Developed a yield farming protocol with staking and reward distribution
-- **Tech**: Solidity, React, Web3.js, Hardhat
-- **Features**: APY calculator, auto-compounding, liquidity mining
-
-### 🏆 Token Launchpad
-Created a launchpad for fair token launches with vesting schedules
-- **Tech**: Solidity, Next.js, PHP Laravel, PostgreSQL
-- **Features**: Whitelist management, anti-bot protection, linear vesting
-
-### 🏆 DAO Governance Platform
-Implemented a full governance system with proposal and voting mechanisms
-- **Tech**: Solidity, TypeScript, React, The Graph
-- **Features**: On-chain voting, proposal execution, delegation
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fullstack-WEB-Blockchain-Developer&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fullstack-WEB-Blockchain-Developer&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fullstack-WEB-Blockchain-Developer&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-</div>
-
----
-
 ## 🌟 What I Bring to Your Project
 
 ✨ **Security First**: Writing secure, audited smart contracts following best practices  
@@ -155,7 +87,7 @@ Implemented a full governance system with proposal and voting mechanisms
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/pdev" target="_blank">
+  <a href="https://www.buymeacoffee.com/harukin399" target="_blank">
     <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" height="41" width="174"/>
   </a>
 </p>
@@ -165,7 +97,7 @@ Implemented a full governance system with proposal and voting mechanisms
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Telegram](https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.org)
 [![Discord](https://img.shields.io/badge/Discord-Chat-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harukin399@example.com)
 
 </div>
 
