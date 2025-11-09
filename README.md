@@ -71,14 +71,14 @@ With a strong foundation in both **frontend** and **backend** development, I del
 
 ## 🌟 What I Bring to Your Project
 
-✨ **Security First**: Writing secure, audited smart contracts following best practices  
-✨ **Scalable Architecture**: Building systems that grow with your user base  
-✨ **Modern UI/UX**: Creating intuitive interfaces that users love  
-✨ **Full Stack Capability**: Handling both blockchain and traditional backend/frontend  
-✨ **Rapid Development**: Leveraging proven frameworks and patterns for faster delivery  
-✨ **Documentation**: Comprehensive code documentation and technical guides  
-✨ **Testing**: Thorough unit testing, integration testing, and security testing  
-✨ **Continuous Learning**: Staying updated with the latest blockchain innovations
+ **Security First**: Writing secure, audited smart contracts following best practices  
+ **Scalable Architecture**: Building systems that grow with your user base  
+ **Modern UI/UX**: Creating intuitive interfaces that users love  
+ **Full Stack Capability**: Handling both blockchain and traditional backend/frontend  
+ **Rapid Development**: Leveraging proven frameworks and patterns for faster delivery  
+ **Documentation**: Comprehensive code documentation and technical guides  
+ **Testing**: Thorough unit testing, integration testing, and security testing  
+ **Continuous Learning**: Staying updated with the latest blockchain innovations
 
 ---
 
